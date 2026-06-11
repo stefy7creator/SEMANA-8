@@ -1,0 +1,3 @@
+Proteger contraseñas implementando claves fuertes y únicas.
+No compartir credenciales ni exponerlas en archivos públicos.
+Mantener software y dependencias del sistema actualizados.
